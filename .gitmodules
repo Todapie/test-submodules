@@ -1,0 +1,6 @@
+[submodule "mf_company-app"]
+	path = mf_company-app
+	url = git@github.com:Huiet/mf_company-app.git
+[submodule "mf_shell-app"]
+	path = mf_shell-app
+	url = git@github.com:Huiet/mf_shell-app.git
